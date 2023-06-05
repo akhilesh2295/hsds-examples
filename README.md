@@ -1,5 +1,3 @@
-Checking for commit to personal repo
-
 # NREL Highly Scalable Data Service (HSDS) Examples
 
 NREL's HSDS service provides public access to several of DOEs high-value datasets available internally on the [Eagle HCP System](https://www.nrel.gov/hpc/eagle-datasets.html). Due to the high demand for the HSDS service, **users with access to NREL’s HPC should pursue direct access through that system.**
